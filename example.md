@@ -4,9 +4,6 @@ This is an example of a Markdown file with various elements including headers, p
 ## Example Link
 Here’s a link to [Docsify-This](https://docsify-this.net) that allows you to easily publish Markdown files as web pages.
 
-## Example Image
-And here is an image of Saturn from the James Webb Space Telescope (JWST):
-
 ## Example Lists
 Markdown supports both ordered and unordered lists. Here is an example of each
 
